@@ -4,4 +4,4 @@ Case study: A single GraphQL endpoint for Cleartrip to remove the dependency of 
 
 ---
 
-![Architechture Explained](https://drive.google.com/file/d/1KxqHTaoSpUwx9kGvpNrg_BK9Ediz9vbS/view?usp=sharing)
+![Architechture Explained](https://res.cloudinary.com/cleartrip/image/upload/v1528778858/Cleartrip-Hotels-GraphQL_xzihtl.png)
