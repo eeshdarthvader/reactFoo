@@ -1,15 +1,7 @@
-# Flux 
+# Cleartrip reactive journey from 3 to 0.2s using Apollo GraphQL
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Case study: A single GraphQL endpoint for Cleartrip to remove the dependency of the react client with the Rest API.
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Architechture Explained](https://drive.google.com/file/d/1KxqHTaoSpUwx9kGvpNrg_BK9Ediz9vbS/view?usp=sharing)
