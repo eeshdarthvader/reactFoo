@@ -11,7 +11,7 @@ A Case study
 
 ---
 
-#### Hotel's Legacy code problems
+### Hotel's Legacy code problems
 
 
 - Page Load Time for hotel result page : ~ 4s
