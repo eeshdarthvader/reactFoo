@@ -7,7 +7,7 @@ A Case study
 
 ### A GraphQL endpoint for Cleartrip to remove dependency of the client with Rest API.
 
-### But Why introduce one more layer ?
+##### But Why introduce one more layer ?
 
 ---
 
