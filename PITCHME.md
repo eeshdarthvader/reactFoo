@@ -1,7 +1,13 @@
 ### Cleartrip reactive journey from 3 to 0.2s using Apollo GraphQL
 -------------
 
-Case study: A GraphQL endpoint for Cleartrip to remove dependency of the client with Rest API.
+A Case study
+
+---
+
+### A GraphQL endpoint for Cleartrip to remove dependency of the client with Rest API.
+
+### But Why introduce one more layer ?
 
 ---
 
