@@ -3,12 +3,8 @@
 	box-shadow: none;
 }
 
-.reveal {
-	padding: 4px 15px;
-	border-radius: 15px;
-	color: #eee !important;
-	font-weight: normal !important;
-	line-height: 1.2 !important;
-	letter-spacing: -0.03em !important;
-	font-family: "Montserrat", Impact, sans-serif !important;
+.reveal ul {
+	list-style-type: disc;
+	font-size: 30px;
+	line-height: 1.8em !important;
 }
