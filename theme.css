@@ -3,7 +3,7 @@
 	box-shadow: none;
 }
 
-.reveal p span.slide-title {
+.reveal {
 	padding: 4px 15px;
 	border-radius: 15px;
 	color: #eee !important;
