@@ -16,5 +16,9 @@ Case study: A GraphQL endpoint for Cleartrip to remove dependency of the client 
 - Multiple API calls to fetch hotel results.
 
 ---
+## How to save time for API developers and remove their dependency ?
 
+(https://res.cloudinary.com/cleartrip/image/upload/v1529000202/Untitled_Diagram_fmgk2h.png)
+
+---
 ![Architechture Explained](https://res.cloudinary.com/cleartrip/image/upload/h_550/v1528778858/Cleartrip-Hotels-GraphQL_xzihtl.png)
